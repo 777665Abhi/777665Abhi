@@ -7,7 +7,6 @@
 **About Me**  
 I’m a passionate Android, Flutter, and backend developer with 9 years of experience in creating robust, scalable, and user-friendly applications. My expertise spans native Android development, cross-platform solutions with Flutter, and backend development using Node.js and Express.js to deliver high-quality, full-stack solutions.  
 
-**Profile Webpage** [Abhishek Singh](https://777665abhi.github.io/resume/)
 
 **Skills**  
 - **Languages:** Kotlin, Java, Dart, JavaScript  
@@ -20,8 +19,10 @@ I enjoy collaborating on innovative projects, contributing to open source, and s
 - 🔭 I’m currently working on **Flutter bluetooth project**
 - 🌱 I’m currently learning **Node backend Apis**
 - 💬 Ask me about **Mobile technology**
+- 💬 Web profile  ([Abhishek Singh-Web profile](https://777665abhi.github.io/resume/))
+- 💬 I'm writing here ([Abhishek singh – Medium](https://medium.com/@abhi.777665))
 - 📫 How to reach me: **abhi777665@gmail.com**
-- 
+
 
 
 <!--
