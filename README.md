@@ -19,7 +19,7 @@ I enjoy collaborating on innovative projects, contributing to open source, and s
 - 🔭 I’m currently working on **Flutter bluetooth project**
 - 🌱 I’m currently learning **Node backend Apis**
 - 💬 Ask me about **Mobile technology**
-- 💬 Web profile  ([Abhishek Singh-Web profile](https://777665abhi.github.io/resume/))
+- 💬 Web profile  ([Abhishek Singh-Web profile](https://777665abhi.github.io/Web-Profile/))
 - 💬 I'm writing here ([Abhishek singh – Medium](https://medium.com/@abhi.777665))
 - 📫 How to reach me: **abhi777665@gmail.com**
 
