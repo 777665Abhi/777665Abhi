@@ -1,4 +1,4 @@
-## Hi, I am Android, Flutter, and Backend developer 👋
+## Hi, I am Android, Flutter, React and Backend developer 👋
 
 
 
